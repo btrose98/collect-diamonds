@@ -1,0 +1,4 @@
+pip~=24.0
+attrs~=23.2.0
+PyYAML~=6.0.1
+selenium~=4.19.0
